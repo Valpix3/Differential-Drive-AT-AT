@@ -7,6 +7,7 @@ Xacro file to define physics like material, mass, friction, and sensors (camera 
 Python program to control the movement of the robot and obstacle avoidance using LIDAR sensor input.
 
 Required terminal commands:
+
 source /opt/ros/humble/setup.bash
 
 ros2 launch <foldername> AT-AT_w.launch.py
