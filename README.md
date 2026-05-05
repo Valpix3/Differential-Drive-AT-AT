@@ -8,5 +8,9 @@ Python program to control the movement of the robot and obstacle avoidance using
 
 Required terminal commands:
 source /opt/ros/humble/setup.bash
+
 ros2 launch <foldername> AT-AT_w.launch.py
+
 ros2 run <foldername> diff_drive
+
+The file addresses need to be changed to match the folder and file names.
